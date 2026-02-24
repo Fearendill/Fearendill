@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">Junior Developer | Passionné par le développement logiciel & web</h3>
 
@@ -37,7 +37,7 @@
 ## 🛠️ Stack & Outils
 
 ### 💻 Langages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<i class="devicon-cplusplus-plain colored">
 
 ### ⚙️ Frameworks & Outils
 - Angular
