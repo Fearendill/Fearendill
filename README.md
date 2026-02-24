@@ -36,11 +36,7 @@
 ## 🛠️ Stack & Outils
 
 ### 💻 Langages
-- C++
-- JavaScript
-- Python
-- HTML5
-- CSS3
+<i class="devicon-cplusplus-plain colored"
 
 ### ⚙️ Frameworks & Outils
 - Angular
@@ -65,19 +61,7 @@
 ## 📫 Me contacter
 
 📧 thomas.cagnion@gmail.com  
-💼 LinkedIn : https://linkedin.com/in/thomas-cagnion  
-
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fearendill&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fearendill&layout=compact&theme=tokyonight" />
-</p>
+💼 LinkedIn : www.linkedin.com/in/thomas-cagnion-720368370  
 
 ---
 
