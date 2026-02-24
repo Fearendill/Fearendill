@@ -36,7 +36,7 @@
 ## 🛠️ Stack & Outils
 
 ### 💻 Langages
-<i class="devicon-cplusplus-plain colored"
+<i class="devicon-cplusplus-plain colored">
 
 ### ⚙️ Frameworks & Outils
 - Angular
