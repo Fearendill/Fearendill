@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">Junior Developer | Passionné par le développement logiciel & web</h3>
 
@@ -36,7 +37,7 @@
 ## 🛠️ Stack & Outils
 
 ### 💻 Langages
-<i class="devicon-cplusplus-plain colored">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 
 ### ⚙️ Frameworks & Outils
 - Angular
