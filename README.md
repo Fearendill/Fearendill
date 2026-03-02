@@ -43,8 +43,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="HTML"/>
 
 ### ⚙️ Frameworks & Outils
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50" height="50" alt="Angular"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="40" height="40" alt="Angular"/>
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50" height="50" alt="Angular"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="40" height="40" alt="Angular"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VScode" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="Github"/>
